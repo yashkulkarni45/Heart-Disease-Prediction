@@ -1,2 +1,3 @@
 # Heart-Disease-Prediction
-Heart Disease Prediction using the Random Forest Algorithm.
+- This model takes into account 13 health parameters.
+- It predicts in binary terms whether you have a heart disease or not.
